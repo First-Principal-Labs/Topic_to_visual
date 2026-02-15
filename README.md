@@ -1,6 +1,6 @@
 # Topic to Visual
 
-Turn any technical concept into an interactive learning experience using AI. Enter a topic, and the app generates a comprehensive explanation, real-world use cases, an interactive playground, and related topics to explore — all powered by GPT-4o.
+Turn any technical concept into an interactive learning experience using AI. Enter a topic, and the app generates a comprehensive explanation, real-world use cases, an interactive playground, and related topics to explore — all powered by GPT-5.2.
 
 ![React](https://img.shields.io/badge/React-19-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-4-blue) ![Vite](https://img.shields.io/badge/Vite-7-purple)
 
