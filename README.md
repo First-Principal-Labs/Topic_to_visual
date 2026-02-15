@@ -17,7 +17,7 @@ Turn any technical concept into an interactive learning experience using AI. Ent
 ### Prerequisites
 
 - Node.js 18+
-- OpenAI API key with GPT-4o access
+- OpenAI API key with GPT-5.2 access
 
 ### Installation
 
